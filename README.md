@@ -22,7 +22,21 @@ stackblitz: https://stackblitz.com/github/Interios/angular-homework01
 - модульность;
 - большое комьюнити для решения многих проблем
 
+4) Зачем нужен CLI в Angular?
 
+CLI - это удобный стартовый набор для разработки, он автоматизирует все стадии создания приложения, начиная с авто-генерации стартового проекта и конфигурационных файлов для деплоймента (дев и прод) и тестирования. Под капотом Angular CLI использует мощный упаковщик Webpack.
+
+5)Назовите команду CLI для создания компонента
+
+- ng new <name> - создание проекта
+- ng g c <name> - создание компонента
+
+6) Что вы понимаете под DRY?
+
+Don’t repeat yourself.
+Я так понимаю, что это касается повторение функционала в нашем коде. Функционал или компонент должен иметь свою уникальную задачу.
+  
+  
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

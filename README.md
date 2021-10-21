@@ -1,6 +1,7 @@
 # AngularHomework01
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
+
+stackblitz: https://stackblitz.com/github/Interios/angular-homework01
 
 1) Что такое СПА?
 
